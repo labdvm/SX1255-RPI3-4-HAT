@@ -1,7 +1,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # SX1255_HAT-hw (schematic and pcb modified by Z32IT)
-Raspberry Pi Zero shield with the SX1255 RF transceiver chip.
+Raspberry Pi 3-4 shield with the SX1255 RF transceiver chip.
 
 ![Board preview](./SX1255_HAT-hw.png)
 
